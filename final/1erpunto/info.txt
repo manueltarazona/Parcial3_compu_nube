@@ -1,0 +1,12 @@
+clave 1
+
+413cfd44b0ac4f76b658676951e37941
+
+punto de conexión
+
+southcentralus
+
+https://TweetSentimentApp.cognitiveservices.azure.com/
+
+Token de github
+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
